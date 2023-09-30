@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Plumb';
+    src: url('Plumb-Medium.eot');
+    src: url('Plumb-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Plumb-Medium.woff2') format('woff2'),
+        url('Plumb-Medium.woff') format('woff'),
+        url('Plumb-Medium.ttf') format('truetype'),
+        url('Plumb-Medium.svg#Plumb-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Plumb-Bold";
+    src: url("https://db.onlinewebfonts.com/t/cc3d11ac370c952fe458a8d8fb83c3d1.eot");
+    src: url("https://db.onlinewebfonts.com/t/cc3d11ac370c952fe458a8d8fb83c3d1.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/cc3d11ac370c952fe458a8d8fb83c3d1.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/cc3d11ac370c952fe458a8d8fb83c3d1.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/cc3d11ac370c952fe458a8d8fb83c3d1.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/cc3d11ac370c952fe458a8d8fb83c3d1.svg#Plumb-Bold")format("svg");
+}
+
